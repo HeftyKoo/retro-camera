@@ -6,7 +6,7 @@ Powered by Copilot + Gemini3 + ChatGPT-coder-5.1
 
 ## 在线体验
 
-![相纸时光机](./qrcode.jpg "相纸时光机")
+<img src="./qrcode.jpg" alt="相纸时光机" title="相纸时光机" width="260" />
 
 ## Prompt
 
